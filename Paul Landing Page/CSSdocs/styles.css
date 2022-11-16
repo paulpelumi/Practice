@@ -1,0 +1,38 @@
+h1 {
+    font-size: 5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(236, 15, 26);
+}
+
+h3 {
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(204, 41, 30);
+    font-size: 25px;
+    text-align: center;
+
+}
+.passport {
+    width: 70%;
+    border-radius: 100%;
+
+}
+
+body {
+    background-color: rgb(115, 207, 195);
+    
+}
+
+.top {
+    background-color: rgb(206, 183, 107);
+    border: 20%;
+    margin-top: 0;
+    text-align: center;
+}
+
+.salute {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    color: rgb(255, 5, 80);
+    margin-left: 0;
+    
+}
